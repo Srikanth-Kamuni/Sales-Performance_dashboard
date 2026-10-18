@@ -89,7 +89,3 @@ sales-performance-dashboard/
 ├── Sales_Project_Documentation.docx
 └── README.md
 ```
-
-## Author
-
-**Srikanth Kamuni** | Data Analytics Portfolio
