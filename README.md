@@ -1,11 +1,11 @@
-Sales Performance Dashboard | Excel Portfolio Project
+#Sales Performance Dashboard | Excel Portfolio Project
 Author: Srikanth Kamuni
 Project type: Sales analytics · Excel dashboard · Pivot tables
-Project description
+#Project description
 An Excel-based sales performance dashboard analyzing 2,000 order records across products, regions, channels and customer types. The project organizes transaction data into reusable sales KPIs and segmented summaries to support business reporting and exploratory analysis.
-Business problem
+#Business problem
 Sales teams need a reliable way to monitor revenue, order volumes and unit sales while identifying differences across channels, geographic regions and product categories. Reviewing raw orders alone makes comparisons and trends harder to interpret. This workbook uses Excel summaries and a dashboard to present the sales data in a more accessible format.
-Dataset overview
+#Dataset overview
 - Worksheet: Sales_Data
 - Records: 2,000 rows
 - Columns: 12
@@ -13,7 +13,7 @@ Dataset overview
 - Other worksheets: Pivot_Table, Dashboard
 - Currency: Not specified in the workbook
 - Provenance: Not documented; publication rights should be confirmed
-Key performance indicators
+#Key performance indicators
 KPI	Value	Calculation
 Total revenue	3,462,605.32	SUM(Revenue)
 Unique orders	2,000	Distinct count of Order ID
@@ -21,7 +21,7 @@ Units sold	7,552	SUM(Quantity)
 Average revenue per order	1,731.30	Total revenue / unique orders
 
 
-Data dictionary
+#Data dictionary
 Column	Definition
 Order ID	Unique identifier for a sales order; use distinct counts when reporting orders.
 Date	Recorded order date, used for month-based trends.
