@@ -76,7 +76,7 @@ The workbook supports comparisons by **month**, **region**, **sales channel**, *
 
 ### 1. Summary Dashboard
 
-#[Bank Loan Summary Dashboard](<img width="791" height="542" alt="Sales_Performance_dashboard" src="https://github.com/user-attachments/assets/00d384c6-8670-496d-b65d-80b566a00320" />)
+## [Sales Performance Dashboard]<img width="791" height="542" alt="Sales_Performance_dashboard" src="https://github.com/user-attachments/assets/00d384c6-8670-496d-b65d-80b566a00320" />
 
 
 ## Repository files
