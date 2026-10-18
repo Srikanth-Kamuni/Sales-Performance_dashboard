@@ -76,7 +76,8 @@ The workbook supports comparisons by **month**, **region**, **sales channel**, *
 
 ### 1. Summary Dashboard
 
-## [Sales Performance Dashboard]<img width="791" height="542" alt="Sales_Performance_dashboard" src="https://github.com/user-attachments/assets/00d384c6-8670-496d-b65d-80b566a00320" />
+## [Sales Performance Dashboard]<img width="798" height="549" alt="Sales_Performance_dashboard" src="https://github.com/user-attachments/assets/0a1c67ad-a675-4fd7-9d06-f862ab5e4908" />
+
 
 
 ## Repository files
