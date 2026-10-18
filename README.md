@@ -72,6 +72,13 @@ The workbook supports comparisons by **month**, **region**, **sales channel**, *
 - Verify data rights and any personal information before public distribution.
 - Validate dashboard visuals in Excel; not all chart and slicer objects are visible to simple worksheet readers.
 
+- ## Dashboard Preview
+
+### 1. Summary Dashboard
+
+#[Bank Loan Summary Dashboard](<img width="791" height="542" alt="Sales_Performance_dashboard" src="https://github.com/user-attachments/assets/00d384c6-8670-496d-b65d-80b566a00320" />)
+
+
 ## Repository files
 
 ```text
